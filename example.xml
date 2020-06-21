@@ -1,0 +1,22 @@
+<studentslist>
+  <student id="1">
+    <FirstName>Greg</FirstName>
+    <LastName>Dean</LastName>
+    <Sertificate>True</Sertificate>
+    <Scores>
+      <module1>70</module1>
+      <module2>80</module2>
+      <module3>90</module3>
+    </Scores>
+  </student>
+  <student id="2">
+    <FirstName>Wirt</FirstName>
+    <LastName>Wood</LastName>
+    <Sertificate>True</Sertificate>
+    <Scores>
+      <module1>80</module1>
+      <module2>80</module2>
+      <module3>80</module3>
+    </Scores>
+  </student>
+</studentslist> 
